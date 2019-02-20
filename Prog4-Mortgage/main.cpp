@@ -1,5 +1,7 @@
-// main goes here. Code that *uses* the Mortgage class
-// goes in this file
+// =======================================
+// Luke Rodman
+// Mortgage Assignment
+// =======================================
 
 #include <iostream>
 #include "Mortgage.h"
