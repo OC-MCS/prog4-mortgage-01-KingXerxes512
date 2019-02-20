@@ -13,7 +13,7 @@ public:
 	void setRate(double);
 	void setYears(int);
 	double setPayment();
-	double setFullPayment(double);
+	double setFullPayment();
 	Mortgage()
 	{
 		setLoan(0);
